@@ -34,3 +34,6 @@ ujson>=1.33
 babel
 eventlet
 pyparsing
+statsmodels
+NumPy>= 1.6
+SciPy>= 0.10
